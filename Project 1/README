@@ -1,0 +1,3 @@
+Programmed by Kinsey Vo and Anthony Tran
+
+This program is a lexer which implements an FSA that returns tokens from a given C++ source code file.
